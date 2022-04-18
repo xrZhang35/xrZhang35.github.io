@@ -4,13 +4,13 @@
 baseurl:
 url: starsdeliever.com
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 寄星
+subtitle: "西安电子科技大学在读"
+description: ""
+keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: xrZhang35/xrzhang35.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
