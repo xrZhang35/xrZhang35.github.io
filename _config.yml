@@ -36,7 +36,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: 闷骚的程序员
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Zhang xiaorui
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: xrZhang35
+location: Xi'an, China
+email: zxr35l@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -140,10 +140,10 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: xrZhang35
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 5fb52e1abaebef6efb10
+    clientSecret: efba639456bab0aee8f96587fbcb756acadb93e5
 # https://utteranc.es/
 utterances:
     repo: xrZhang/blog-comments
